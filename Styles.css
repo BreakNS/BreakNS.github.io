@@ -1,0 +1,19 @@
+/* Some intro css */
+body {
+  background-color: black;
+  color: white;
+}
+
+.custom-nav-color{
+    background-color: #000000;
+}
+
+.custom-text-color{
+    color: #ffffff;
+}
+
+.custom-bg-color{
+    background-color: #000000;
+}
+
+
