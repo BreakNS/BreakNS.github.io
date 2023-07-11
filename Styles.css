@@ -1,5 +1,10 @@
 /* Some intro css */
 
+body{
+    background-color: #264653;
+    color: #ffffff;
+}
+
 .custom-nav-color{
     background-color: #000000;
 }
